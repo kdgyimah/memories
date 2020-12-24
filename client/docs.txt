@@ -1,0 +1,9 @@
+// Dependencies
+Axios   -> API requests
+Moment  -> Library for working with time and date
+React-file-base64   -> Converting images to base64
+Redux               -> Managing application state
+Redux-thunk         -> Making asynchronous actions with Redux
+date-fns -> Working with dates (npm install date-fns --save)
+Provider(react-redux) -> Keeps track of the global state, similar to the Context API. So you can access the store from anywhere in the app
+Reducers -> handle state changes functions that accept the state and accepts the action. Based on the action type, it will carry out the action or logic or state changed
